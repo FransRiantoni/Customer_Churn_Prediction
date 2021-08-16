@@ -28,15 +28,17 @@
       4. Deposite special rate (6% p.a)------- Deposite would give for 3 months to 250 Customer.
       
 ## Result and Conclusion
-    After made a prediction and gave the solution, **we could reintention customer churn until 36 % of customer that should be and save the expanses by 35 %  or $66M from $188M**. This calcuation had estimated the cost of marketing and refered to condition of banks in general.
+    After made a prediction and gave the solution, **we could reintention customer churn until 36 % of customer that 
+    should be and save the expanses by 35 %  or $66M from $188M**. This calcuation had estimated the cost of marketing 
+    and refered to condition of banks in general.
     
 
 
 Thank you for read this ReadME. 
 
 
-S8mantik Group:
-Frans Riantoni (https://www.linkedin.com/in/frans-riantoni-purba/).
-Chaerul Anwar Copa (https://www.linkedin.com/in/kopachaerul/).
-Vermona Lumban Gaol (https://www.linkedin.com/in/vermonagaol/).
-M.Hafiz (https://www.linkedin.com/in/hafiz-a11b05121/).
+### S8mantik Group:
+1. Frans Riantoni (https://www.linkedin.com/in/frans-riantoni-purba/).
+2. Chaerul Anwar Copa (https://www.linkedin.com/in/kopachaerul/).
+3. Vermona Lumban Gaol (https://www.linkedin.com/in/vermonagaol/).
+4. M.Hafiz (https://www.linkedin.com/in/hafiz-a11b05121/).
